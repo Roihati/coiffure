@@ -47,6 +47,4 @@ Puis ouvrir :
 
 ```bash
 coiffure.html
-voici un apparçu de ce vitrine
-<img width="1877" height="942" alt="image" src="https://github.com/user-attachments/assets/baf655b1-babb-4464-8538-44ebfff1b441" />
 
